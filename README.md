@@ -31,7 +31,7 @@ Para visualizar a proposta, clique [aqui](https://github.com/Rocketseat/bootcamp
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [ReactJS](https://nodejs.org/en/)
+- [ReactJS](https://en.reactjs.org/)
 - [Jest](https://jestjs.io/docs/en/getting-started)
 
 
